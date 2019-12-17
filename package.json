@@ -1,0 +1,22 @@
+{
+  "name": "ch-config",
+  "version": "1.0.0",
+  "description": "一些后端常用模块的配置和方法封装",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chengshubei/ch-config.git"
+  },
+  "keywords": [
+    "chengshubei"
+  ],
+  "author": "chengshubei",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chengshubei/ch-config/issues"
+  },
+  "homepage": "https://github.com/chengshubei/ch-config#readme"
+}
